@@ -1,3 +1,4 @@
 <?php
-echo "RBI Web";
-echo "Pruebs y soluciones de un administrador de sistemas";
+echo "<h1>RBI TxokoGest</h1>";
+echo "<h3>Gestión de asociaciones</h3>";
+?>
